@@ -23,27 +23,3 @@ Below is a video of a performance on the Synth Disc. It starts with a few demons
 ### Code
 
 All source code can be found in the Google Driver folder [here](https://drive.google.com/drive/folders/19ms-O8n8euudKcYsBEvtY9AzGROrZ6wv?usp=sharing). Unfortunately, I seem to have lost the ability to copy compressed, so these are full Max patches.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
