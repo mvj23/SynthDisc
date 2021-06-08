@@ -6,6 +6,8 @@ The Synth Disc is a digital musical instrument that was created by Michael Ji fo
 
 The Synth Disc, as its name may imply, is a synthesiser-based instrument mounted on/inside a flying disc, better known as a Frisbee. The instrument controls 4 simple square wave oscillators, which can be cycled through by clicking a button. One tilt axis controls pitch; -90 to 90 degree tilt maps to about two octaves centered around middle C. The other tilt axis controls panning with full left to right range. Finally, there is an ultrasonic sensor that measures the distance to the ground, which controls the volume. Additionally, if the distance measured is less than 10cm, then a saw wave note at half frequency is played.
 
+![DiscFront](Disc_Front.jpg) ![DiscBack](Disc_Back.jpg)
+
 Sonically, it is relatively simple. The 4 osciallators will be set by instrument and then "left there" as the player cycles through. This allows the player to create interesting soundscapes, harmonize with themselves, and/or use oscillator as a melodic line while the others create a backdrop. The low note controlled by the ultrasonic sensor allows for a little articulation and rhythm to be added to the otherwise constant sound.
 
 ### Inspiration, Development, and Future Ideas
