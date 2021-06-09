@@ -20,7 +20,7 @@ In the future, it would be great to change the instrument to a wireless format, 
 
 Below is a video of a performance on the Synth Disc. It starts with a few demonstrations of the use, and then goes into an impromptu performance
 
-![Performance]()
+![Performance](performance.mp4)
 
 ### Code
 
